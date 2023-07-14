@@ -1,6 +1,7 @@
-This GitHub account belongs to @PepeTheBuilder. You can find my projects and contributions here: PepeTheBuilder's GitHub. https://github.com/PepeTheBuilder
+## Hi there 👋
+This GitHub account belongs to @PepeTheBuilder. You can find my other projects and contributions here: PepeTheBuilder's GitHub. https://github.com/PepeTheBuilder
 
-Projects
+Projects:
 
 All the projects showcased here were developed solely by me. During their development, collaboration was required due to university guidelines, which mandated private repositories to prevent code copying between students. However, now that the projects are complete, they are publicly accessible.
 
