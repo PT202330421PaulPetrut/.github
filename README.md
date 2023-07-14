@@ -1,6 +1,6 @@
-This is an account of @PepeTheBuilder https://github.com/PepeTheBuilder
+This GitHub account belongs to @PepeTheBuilder. You can find my projects and contributions here: PepeTheBuilder's GitHub.
 
-All the projects were done by me solo, the coalboration was needed because the uni wanted it to be private repository while in developing so we wouldn't copy from each others. 
-But now all of them are public.
+Projects
+All the projects showcased here were developed solely by me. During their development, collaboration was required due to university guidelines, which mandated private repositories to prevent code copying between students. However, now that the projects are complete, they are publicly accessible.
 
-Each project has it's own documetation where is written what i used and how i used diffrent concepts and tools.
+For each project, you can find dedicated documentation that describes the technologies, concepts, and tools used.
